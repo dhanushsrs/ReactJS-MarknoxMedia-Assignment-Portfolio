@@ -10,7 +10,7 @@ This is a personal portfolio website that showcases my work, projects, and skill
 ### Tech Stack
   1. HTML5 - Markup structure
   2. CSS3 - Styling using Flexbox
-  3. JavaScript - Dynamic elements and Web3Forms integration
+  3. JavaScript (React) - Dynamic elements and Web3Forms integration
   4. Web3Forms - Contact form integration without server-side code
 
 ### Setup and Installation
