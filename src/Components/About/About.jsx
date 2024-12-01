@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./About.css";
 
 import theme_pattern from "../../assets/theme_pattern.svg";
-import profile from "../../assets/profile.jpg";
+import profile from "../../assets/profile.JPG";
 
 const About = () => {
   const [activeTab, setActiveTab] = useState("skills");
